@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1686168366536,
+      "tag": "0000_legal_vindicator",
+      "breakpoints": false
+    }
+  ]
+}
